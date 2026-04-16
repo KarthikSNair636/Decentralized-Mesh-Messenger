@@ -1,7 +1,6 @@
-![App Mockup](MiniMockUp.jpg.jpeg)
-
-
 # Hop — Bluetooth Mesh Messaging (MANET)
+
+![App Mockup](MiniMockUp.jpg.jpeg)
 
 Production-ready Android app implementing a **Bluetooth-based mesh messaging network** with no internet or SIM usage.
 
