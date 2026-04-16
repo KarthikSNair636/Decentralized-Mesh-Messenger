@@ -1,4 +1,4 @@
-![image alt]{https://github.com/KarthikSNair636/Decentralized-Mesh-Messenger/blob/f71f47ae9bee4bab41610f4aabadbe0b02f429f9/MiniMockUp.jpg.jpeg}
+![image alt](https://raw.githubusercontent.com/KarthikSNair636/Decentralized-Mesh-Messenger/f71f47ae9bee4bab41610f4aabacbe0b02f429f9/MiniMockUp.jpg.jpeg)
 
 
 # Hop — Bluetooth Mesh Messaging (MANET)
