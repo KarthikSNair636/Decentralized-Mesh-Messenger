@@ -1,3 +1,6 @@
+![image alt]{https://github.com/KarthikSNair636/Decentralized-Mesh-Messenger/blob/f71f47ae9bee4bab41610f4aabadbe0b02f429f9/MiniMockUp.jpg.jpeg}
+
+
 # Hop — Bluetooth Mesh Messaging (MANET)
 
 Production-ready Android app implementing a **Bluetooth-based mesh messaging network** with no internet or SIM usage.
